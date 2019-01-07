@@ -1,0 +1,143 @@
+@media (max-width: 575.98px) {
+  nav a {
+    padding-right: 0 !important;
+    margin-top: 10px;
+    text-align: right;
+  }
+    .title {
+    font-size: 28px;
+  }
+  .s_content h5 {
+    padding: 15px 0;
+}
+  .slider {
+    padding-top: 0;
+    padding-bottom: 35px;
+  }
+  .cus_indicator {
+    bottom: -35px;
+  }
+  .s_content h2 {
+    margin-top: 20px;
+  }
+  .icons {
+    margin-left: 24%;
+  }
+  .features {
+    padding: 50px 0;
+}
+  .features h2 {
+    font-size: 19px;
+}
+.f_title p {
+    margin-bottom: 50px;
+}
+  .features i {
+    margin-right: 88%;
+    margin-bottom: -7px;
+  }
+  .social input {
+    padding: 24px 4px;
+    font-size: 14px;
+}
+.social button {
+    padding: 12px 26%;
+    margin-left: -40%;
+}
+i {
+    font-size: 38px;
+    padding: 10px 0;
+}
+.social {
+    padding-bottom: 45px;
+}
+  footer ul {
+    margin-bottom: 50px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  nav a {
+    padding-right: 0 !important;
+    margin-top: 1px;
+    text-align: right;
+  }
+  .title {
+    font-size: 30px;
+  }
+  .slider {
+    padding-top: 0;
+    padding-bottom: 35px;
+  }
+  .cus_indicator {
+    bottom: -35px;
+  }
+  .s_content h2 {
+    margin-top: 20px;
+    font-size: 30px;
+  }
+  .icons {
+    margin-left: 32%;
+  }
+  .social button {
+    padding: 12px 20%;
+    margin-right: 2%;
+    margin-left: -24%;
+  }
+  .social input {
+    margin-left: 17%;
+    padding-right: 10%;
+     width: 91%;
+     font-size: 16px;
+  }
+  .features i {
+    margin-right: 62%;
+    margin-bottom: 23px;
+  }
+  .features h2 {
+    font-size: 20px;
+    color: #010101 !important;
+}
+.subtitle {
+    font-size: 18px;
+}
+i {
+    font-size: 39px;
+    padding: 10px 0;
+}
+  footer ul {
+    margin-bottom: 50px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  nav a {
+    padding-right: 0 !important;
+    margin-top: 10px;
+    text-align: right;
+  }
+  .title {
+    font-size: 30px;
+  }
+.social h2 {
+    font-size: 30px;
+}
+.features h2 {
+    font-size: 20px;
+    color: #010101 !important;
+}
+.subtitle {
+    font-size: 18px;
+}
+.social input {
+    width: 88%;
+    font-size: 18px;
+}
+.social button {
+    margin-left: -52%;
+}
+i {
+    font-size: 39px;
+    padding: 10px 0;
+}
+}
